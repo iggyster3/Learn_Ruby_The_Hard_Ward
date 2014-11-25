@@ -7,4 +7,4 @@ height = gets.chomp
 print "How much do you weight? "
 weight = gets.chomp
 
-puts "So you're #{age} old, #{height} tall and #{weight} heavy."
+puts "So you're #{age} old, #{height} tall and #{weight} in weight."
