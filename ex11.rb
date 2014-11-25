@@ -9,7 +9,8 @@ weight = gets.chomp
 
 puts "So you're #{age} old, #{height} tall and #{weight} in weight."
 
-Print "Good Morning Mr.Ighodaro how much money do you have to deposit? "
+print "Good Morning Mr.Ighodaro how much money do you have to deposit? "
 deposit_money = gets.chomp
 
 puts "Mr Ighodaro you have deposited #{deposit_money} into your current account.."
+print "Goodbye.."
